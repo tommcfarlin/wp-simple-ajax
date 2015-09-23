@@ -7,7 +7,7 @@
  * the `get_current_user_info` function is defined and will then handle the
  * response based on the information returned from the request.
  *
- * @since    1.0.0
+ * @since    2.0.0
  */
 ;(function( $ ) {
 	'use strict';
