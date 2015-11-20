@@ -7,7 +7,7 @@
  *
  * @since    1.0.0
  *
- * @package   WPA
+ * @package   Acme
  * @author    Tom McFarlin
  * @license   http://www.gnu.org/licenses/gpl-2.0.txt
  * @link      https://tommcfarlin.com/
@@ -17,12 +17,12 @@
  * Stores the plugin version, loads and enqueues dependencies
  * for the plugin.
  *
- * @package   WPA
+ * @package   Acme
  * @author    Tom McFarlin
  * @license   http://www.gnu.org/licenses/gpl-2.0.txt
  * @link      https://tommcfarlin.com/
  */
-class WP_Simple_Ajax {
+class Acme_Simple_Ajax {
 
 	/**
 	 * Represents the current version of this plugin.

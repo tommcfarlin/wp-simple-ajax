@@ -4,7 +4,7 @@
  *
  * @since    1.0.0
  *
- * @package   WPA
+ * @package   Acme
  * @author    Tom McFarlin
  * @license   http://www.gnu.org/licenses/gpl-2.0.txt
  * @link      https://tommcfarlin.com/
@@ -13,8 +13,8 @@
 /**
  * Loads and enqueues dependencies for the plugin.
  *
- * @package    WPA
- * @subpackage WPA/includes
+ * @package    Acme
+ * @subpackage Acme/includes
  * @since      1.0.0
  * @author     Tom McFarlin
  * @license    http://www.gnu.org/licenses/gpl-2.0.txt

@@ -2,7 +2,7 @@
 /**
  * This plugin demonstrates how to use the WordPress Ajax APIs.
  *
- * @package           WPA
+ * @package           Acme
  *
  * @wordpress-plugin
  * Plugin Name:       Simple Ajax Demo
@@ -32,10 +32,10 @@ include_once( 'class-wp-simple-ajax.php' );
 /**
  * Instantiates the main class and initializes the plugin.
  */
-function wpa_start_plugin() {
+function acme_start_plugin() {
 
-	$plugin = new WP_Simple_Ajax();
+	$plugin = new Acme_Simple_Ajax();
 	$plugin->initialize();
 
 }
-wpa_start_plugin();
+acme_start_plugin();
